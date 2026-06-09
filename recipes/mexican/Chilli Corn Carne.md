@@ -12,24 +12,24 @@ Serving Size: 4–6 servings
 
 ## Ingredients (clear list with quantities)
 
--Sweetcorn kernels, 400 g (fresh, frozen, or canned)
--Red kidney beans, 2 × 400 g cans, drained and rinsed
--Onion, 1 large, finely chopped
--Red bell pepper, 1, diced
--Green bell pepper, 1, diced
--Garlic cloves, 3, minced
--Chopped tomatoes, 2 × 400 g cans
--Tomato purée, 2 tablespoons
--Vegetable stock, 250 ml
--Olive oil, 2 tablespoons
--Ground cumin, 2 teaspoons
--Smoked paprika, 2 teaspoons
--Chilli powder, 1–2 teaspoons (adjust to taste)
--Dried oregano, 1 teaspoon
--Salt, 1 teaspoon
--Black pepper, ½ teaspoon
--Fresh coriander, small handful, chopped (optional)
--Lime wedges, for serving (optional)
+- Sweetcorn kernels, 400 g (fresh, frozen, or canned)
+- Red kidney beans, 2 × 400 g cans, drained and rinsed
+- Onion, 1 large, finely chopped
+- Red bell pepper, 1, diced
+- Green bell pepper, 1, diced
+- Garlic cloves, 3, minced
+- Chopped tomatoes, 2 × 400 g cans
+- Tomato purée, 2 tablespoons
+- Vegetable stock, 250 ml
+- Olive oil, 2 tablespoons
+- Ground cumin, 2 teaspoons
+- Smoked paprika, 2 teaspoons
+- Chilli powder, 1–2 teaspoons (adjust to taste)
+- Dried oregano, 1 teaspoon
+- Salt, 1 teaspoon
+- Black pepper, ½ teaspoon
+- Fresh coriander, small handful, chopped (optional)
+- Lime wedges, for serving (optional)
 
 ## Method (step-by-step instructions)
 
@@ -46,10 +46,10 @@ Serving Size: 4–6 servings
 
 ## Serving Suggestions
 
--Serve with steamed rice or Mexican-style rice.
--Accompany with warm tortillas or crusty bread.
--Top with grated cheese, sour cream, or sliced avocado.
--Pair with a fresh green salad for a complete meal.
+- Serve with steamed rice or Mexican-style rice.
+- Accompany with warm tortillas or crusty bread.
+- Top with grated cheese, sour cream, or sliced avocado.
+- Pair with a fresh green salad for a complete meal.
 
 ## Photo (optional)
 
