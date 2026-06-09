@@ -1,4 +1,4 @@
-# Recipe Title
+# Sushi
 
 - Cuisine Type:
 - Preparation Time:
