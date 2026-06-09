@@ -41,7 +41,7 @@
 14. Rest for 10 minutes before fluffing gently with a fork.
 ## Serving Suggestions
 Corriander placed on top 
-## Photo (optional)
+## Photo
 <img width="1590" height="1060" alt="image" src="https://github.com/user-attachments/assets/68c453d4-c1f5-43f7-8dd9-c5baa3e663b0" />
 
 ![An empty white bowl](./empty-white-bowl-on-white-background-png.png)
