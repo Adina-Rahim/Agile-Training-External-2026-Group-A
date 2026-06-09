@@ -40,7 +40,7 @@
 13. Sprinkle over the fried onions and saffron milk, if using.
 14. Rest for 10 minutes before fluffing gently with a fork.
 ## Serving Suggestions
-2
+Corriander placed on top 
 ## Photo (optional)
 
 ![An empty white bowl](./empty-white-bowl-on-white-background-png.png)
