@@ -41,7 +41,7 @@
 
 Serve with a side of Mexican rice, refried beans, or grilled spring onions (cebollitas). A cold horchata or a Mexican lager pairs perfectly. For extra freshness, add a spoonful of guacamole or pico de gallo, and squeeze plenty of lime over the top just before eating.
 
-## Photo (optional)
+## Photo 
 ![](https://www.onceuponachef.com/images/2023/08/Beef-Tacos-760x570.jpg)
 
 
