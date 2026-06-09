@@ -42,7 +42,7 @@
 Serve with a side of Mexican rice, refried beans, or grilled spring onions (cebollitas). A cold horchata or a Mexican lager pairs perfectly. For extra freshness, add a spoonful of guacamole or pico de gallo, and squeeze plenty of lime over the top just before eating.
 
 ## Photo (optional)
+![](https://www.onceuponachef.com/images/2023/08/Beef-Tacos-760x570.jpg)
 
-![A plate of carne asada tacos with onion, coriander and lime](./carne-asada-tacos-on-white-plate.png)
 
 For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/).
