@@ -31,8 +31,7 @@ Serving Size: 4–6 servings
 - Fresh coriander, small handful, chopped (optional)
 - Lime wedges, for serving (optional)
 
-## Method (step-by-step instructions)
-
+## Method 
 1. Heat the olive oil in a large saucepan over medium heat. Add the chopped onion and cook for 4–5 minutes until softened.
 2. Add the garlic and diced peppers. Cook for a further 3–4 minutes, stirring occasionally.
 3. Stir in the cumin, smoked paprika, chilli powder, and oregano. Cook for 1 minute until fragrant.
@@ -51,7 +50,7 @@ Serving Size: 4–6 servings
 - Top with grated cheese, sour cream, or sliced avocado.
 - Pair with a fresh green salad for a complete meal.
 
-## Photo (optional)
+## Photo 
 
 <img width="569" height="319" alt="image" src="https://github.com/user-attachments/assets/03593ce2-d78f-435c-a455-4d8d4669c8a1" />
 
