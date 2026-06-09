@@ -1,6 +1,6 @@
-# Recipe Title
+# Chilli Corn Carne
 
-Recipe Title: Chilli Corn Carne
+Title: Chilli Corn Carne
 
 Cuisine Type: Mexican-Inspired Vegetarian
 
@@ -10,7 +10,7 @@ Cooking Time: 30 minutes
 
 Serving Size: 4–6 servings
 
-## Ingredients (clear list with quantities)
+## Ingredients 
 
 - Sweetcorn kernels, 400 g (fresh, frozen, or canned)
 - Red kidney beans, 2 × 400 g cans, drained and rinsed
@@ -56,4 +56,4 @@ Serving Size: 4–6 servings
 <img width="569" height="319" alt="image" src="https://github.com/user-attachments/assets/03593ce2-d78f-435c-a455-4d8d4669c8a1" />
 
 
-For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/).
+
