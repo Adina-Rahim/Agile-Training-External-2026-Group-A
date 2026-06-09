@@ -5,7 +5,7 @@
 - Cooking Time: 15 minutes
 - Serving Size: 4 (about 12 tacos)
 
-## Ingredients (clear list with quantities)
+## Ingredients
 
 ### For the carne asada
 - skirt or flank steak, 700 g
@@ -26,7 +26,7 @@
 - limes, 2, cut into wedges
 - salsa verde or salsa roja, to taste
 
-## Method (step-by-step instructions)
+## Method
 
 1. In a bowl or zip-lock bag, combine the orange juice, lime juice, garlic, chopped coriander, cumin, chilli powder, salt, pepper and olive oil to make the marinade.
 2. Add the steak, coat it well, and marinate in the fridge for at least 1 hour (up to 4 hours for deeper flavour).
@@ -45,4 +45,3 @@ Serve with a side of Mexican rice, refried beans, or grilled spring onions (cebo
 ![](https://www.onceuponachef.com/images/2023/08/Beef-Tacos-760x570.jpg)
 
 
-For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/).
