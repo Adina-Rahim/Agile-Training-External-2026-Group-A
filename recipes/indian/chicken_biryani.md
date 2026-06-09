@@ -1,11 +1,11 @@
-# Recipe Title
+# Chicken Biryany
 
 - Cuisine Type: Indian
 - Preparation Time: 1 hour (plus marinating time)
 - Cooking Time: 25 minutes
 - Serving Size: 4 people
 
-## Ingredients (clear list with quantities)
+## Ingredients 
 
 - Chicken (bone-in or boneless), 500g
 - Plain yogurt (curd), 3 tbsp
@@ -23,7 +23,7 @@
 - Shahi jeera (caraway seeds), ¾ tsp
 - Mace, 1 strand (optional)
 
-## Method (step-by-step instructions)
+## Method 
 
 1. In a large bowl, combine the yogurt, ginger-garlic paste, salt, turmeric, red chilli powder, garam masala and lemon juice.
 2. Add the chicken and coat well in the marinade. Cover and marinate for at least 1 hour or overnight in the refrigerator.
